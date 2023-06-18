@@ -13,4 +13,4 @@ if (studentmarks>79 && studentmarks <=100) {
 }
 else (studentMarks >100 || studentMarks <0);{
     alert (" Error! Invalid input!");
-}
+} 
